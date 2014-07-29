@@ -2,6 +2,7 @@ angular-socketio-chatroom-example
 =================================
 
 A working chatroom example built with AngularJS and Socket.io.
+
 I fixed the data-binding issue in the Ref.1 which separate the server and client in Ref.4.
 
 References: 

@@ -16,13 +16,19 @@ References:
 4. A very popular post, also the source used by Ref. 1: http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/#disqus_thread
 
 Step 1: 
+
 Install the dependencies: 
+
 npm install socket.io express
 
 Step 2: 
+
 Start the server side: node app.js
+
 Then it will be run on http://127.0.0.1:3000
 
 Step 3: 
+
 Start the client side: npm start
+
 It will be run on http://127.0.0.1:8000/app/index.html

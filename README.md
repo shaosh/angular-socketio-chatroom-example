@@ -17,16 +17,16 @@ References:
 
 Step 1: 
 
-    Install the dependencies: npm install socket.io express
+    Install the dependencies in myapp folder: npm install socket.io express
 
 Step 2: 
 
-    Start the server side: node app.js
+    Start the server side in myapp folder: node app.js
 
     Then it will be run on http://127.0.0.1:3000
 
 Step 3: 
 
-    Start the client side: npm start
+    Start the client side in chatroom folder: npm start
 
     It will be run on http://127.0.0.1:8000/app/index.html

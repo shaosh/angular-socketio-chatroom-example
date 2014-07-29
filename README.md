@@ -1,7 +1,9 @@
 angular-socketio-chatroom-example
 =================================
 
-A working chatroom example built with AngularJS and Socket.io
+A working chatroom example built with AngularJS and Socket.io.
+I fixed the data-binding issue in the Ref.1 which separate the server and client in Ref.4.
+
 References: 
 
 1. The main one: http://morlay.tla42.org/coding/2013/03/01/AngularJS-Socket.IO/
@@ -12,8 +14,14 @@ References:
 
 4. A very popular post, also the source used by Ref. 1: http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/#disqus_thread
 
+Step 1: 
+Install the dependencies: 
+npm install socket.io express
+
+Step 2: 
 Start the server side: node app.js
 Then it will be run on http://127.0.0.1:3000
 
+Step 3: 
 Start the client side: npm start
 It will be run on http://127.0.0.1:8000/app/index.html

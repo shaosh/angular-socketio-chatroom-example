@@ -17,9 +17,7 @@ References:
 
 Step 1: 
 
-Install the dependencies: 
-
-npm install socket.io express
+Install the dependencies: npm install socket.io express
 
 Step 2: 
 

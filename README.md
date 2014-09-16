@@ -15,6 +15,13 @@ References:
 
 4. A very popular post, also the source used by Ref. 1: http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/#disqus_thread
 
+Step 0:
+    Go to chatroom folder.
+    First: npm install -g bower
+           or
+           npm install -g
+    Then: bower install
+
 Step 1: 
 
     Install the dependencies in myapp folder: npm install socket.io express
